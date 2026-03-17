@@ -1,4 +1,4 @@
-package pamonha.example.demo;
+package com.example.pamonhastore.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
